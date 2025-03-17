@@ -24,3 +24,15 @@ Here is an example program that prints "Hello, World!" in Dan:
 ## Interpreter
 
 An interpreter for Dan is provided below in Python.
+
+## Running the Interpreter
+
+To run the interpreter, save the above code to a file named `dan_interpreter.py` and run it with Python:
+
+```
+python dan_interpreter.py
+```
+
+You can modify the `code` variable in the `__main__` section to run different Dan programs.
+
+Enjoy programming in Dan!
